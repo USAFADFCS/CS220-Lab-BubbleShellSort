@@ -24,6 +24,8 @@ void bubbleSort(int numbers[], int numbersSize);
  * @brief Perform a shell sort on a an array
  * @param numbers - the array to sort
  * @param numbersSize - the size of the array to sort
+ * @param gapValues - the array of gap values to use 
+ * @param gapSize - the number of gap values
  * @pre parameters are populated with proper values
  * @post numbers is sorted
  */
